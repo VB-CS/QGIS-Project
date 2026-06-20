@@ -1,1 +1,12 @@
+Data/
+*.shp
+*.dbf
+*.prj
+*.shx
+*.cpg
+*.geojson
+*.osm
+
+
 .DS_Store
+.vscode/
