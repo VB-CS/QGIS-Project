@@ -14,4 +14,4 @@ Applying the filter (`"CENTER_TYPE" = 'Non-Apparel Center'`) revealed that the p
 ## Tech Stack
 * **Language:** Python
 * **Tools:** QGIS, OpenStreetMap(OSM), VSCode
-* **Methodology** Geospatial Clustering & Anchor-Synergy Scoring
+
